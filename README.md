@@ -1,1 +1,1 @@
-# lynda-repo2
+Orange Cameroon repository
